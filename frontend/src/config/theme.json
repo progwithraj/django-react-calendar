@@ -1,0 +1,30 @@
+{
+  "token": {
+    "colorPrimary": "#7546C9",
+    "colorSuccess": "#52c41a",
+    "colorWarning": "#faad14",
+    "colorError": "#ff4d4f",
+    "colorInfo": "#1890ff",
+    "borderRadius": 8,
+    "wireframe": false
+  },
+  "components": {
+    "Layout": {
+      "siderBg": "#1F1F1F",
+      "headerBg": "#ffffff",
+      "headerHeight": 64,
+      "headerPadding": "0 24px"
+    },
+    "Menu": {
+      "darkItemBg": "#1F1F1F",
+      "darkItemSelectedBg": "#7546C9",
+      "darkItemHoverBg": "rgba(117, 70, 201, 0.5)",
+      "darkItemColor": "#ffffff",
+      "darkSubMenuItemBg": "#1F1F1F"
+    },
+    "Button": {
+      "borderRadius": 8,
+      "primaryShadow": "none"
+    }
+  }
+}
