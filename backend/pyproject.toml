@@ -25,4 +25,7 @@ dependencies = [
     "rich>=13.9.4",
     "django-debug-toolbar>=4.4.6",
     "django-unfold>=0.43.0",
+    "django-rest-auth>=0.9.5",
+    "dj-rest-auth>=7.0.0",
+    "django-allauth[socialaccount]>=65.3.1",
 ]
