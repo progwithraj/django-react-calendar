@@ -5,7 +5,24 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "django-filter>=24.3",
     "django>=5.1.4",
     "django-extensions>=3.2.3",
     "django-storages>=1.14.4",
+    "djangorestframework>=3.15.2",
+    "dj-database-url>=2.3.0",
+    "django-cors-headers>=4.6.0",
+    "gunicorn>=23.0.0",
+    "supabase-py>=0.0.2",
+    "djangorestframework-simplejwt>=5.3.1",
+    "tqdm>=4.67.1",
+    "pre-commit>=4.0.1",
+    "psycopg2-binary>=2.9.10",
+    "whitenoise>=6.8.2",
+    "python-dotenv>=1.0.1",
+    "python-slugify>=8.0.4",
+    "ruff>=0.8.4",
+    "rich>=13.9.4",
+    "django-debug-toolbar>=4.4.6",
+    "django-unfold>=0.43.0",
 ]
